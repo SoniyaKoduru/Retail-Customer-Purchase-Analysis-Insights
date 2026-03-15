@@ -32,7 +32,8 @@ customer-behaviour-analysis/ \
 ├── reports/ \
 │   └── Customer_Behaviour_Analysis.docx \
 ├── PPT/ \
-│   └── Customer_Behaviour_Analysis.ppt
+│   └── Customer_Behaviour_Analysis.ppt \
+├── LICENSE
 
 # Steps
 - Data cleaning and preprocessing using Python. \
