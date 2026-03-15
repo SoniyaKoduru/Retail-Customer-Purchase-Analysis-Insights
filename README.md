@@ -9,6 +9,12 @@ This project focuses on analyzing retail customer data to uncover meaningful ins
 
 The objective of this project is to demonstrate how data analysis can help businesses make informed decisions by identifying key trends and patterns in customer transactions.
 
+# Dataset
+The dataset is a CSV file containing customer transaction records capturing demographic details, purchase history, product categories, and sales amounts. \
+Rows: 3900 \
+Columns: 18 
+
+DataSource : https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv
 
 # Tools Used
 
