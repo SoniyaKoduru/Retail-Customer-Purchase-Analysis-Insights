@@ -24,7 +24,7 @@ customer-behaviour-analysis/ \
 ├── data/ \
 │   └── customer_behaviour.csv \
 ├── notebooks/ \
-│   └── customer_behaviour_EDA.ipynb \
+│   └── customer_behaviour_Analysis.ipynb \
 ├── sql/ \
 │   └── queries.sql \
 ├── dashboard/ \
