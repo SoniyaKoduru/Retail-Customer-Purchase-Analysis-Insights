@@ -42,20 +42,21 @@ customer-behaviour-analysis/ \
 ├── LICENSE
 
 # Steps
-- Data cleaning and preprocessing using Python. \
-- Data stored in PostgreSQL database on Supabase. \
-- SQL queries written to answer 10 business questions and extract insights. \
-- Database verified using pgAdmin. \
-- Data connected to Power BI for visualization. \
-- Interactive dashboard created to present insights
+- Data cleaning and preprocessing using Python.
+- Data stored in PostgreSQL database on Supabase.
+- SQL queries written to answer 10 business questions and extract insights.
+- Database verified using pgAdmin.
+- Data connected to Power BI for visualization.
+- Interactive dashboard created to present insights.
 
 # Key Findings
 
-- Clothing and Accessories contribute 76% of total revenue \
-- Male customers generate higher revenue across all categories \
-- Customer base - Top states: Montana, California, Idaho, Illinois, Alabama \
-- Average review rating: 3.75 / 5 \
-- Average purchase frequency: every 89 days \
+- Clothing and Accessories contribute 76% of total revenue
+- Male customers generate higher revenue across all categories
+- Customer base - Top states: Montana, California, Idaho, Illinois, Alabama
+- Average review rating: 3.75 / 5
+- Average purchase frequency: every 89 days
 
 # Author
-Soniya Koduru
+Soniya Koduru \
+Please feel free to reach out to me on https://www.linkedin.com/in/koduru-soniya/
