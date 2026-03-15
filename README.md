@@ -21,7 +21,8 @@ DataSource : https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-
 Python (Pandas, NumPy) — Data cleaning and EDA \
 Google Colab — Notebook environment \
 PostgreSQL + PgAdmin — SQL analysis \
-Power BI — Interactive dashboard
+Power BI — Interactive dashboard \
+Gamma - For effective presentation
 
 # Structure
 customer-behaviour-analysis/ \
